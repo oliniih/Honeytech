@@ -1,0 +1,7 @@
+region,ab_group,total_installs,step1_read_ep1,step2_reached_paywall,step3_payers,cr_install_to_pay_pct
+Europe,Control_3ep,7320,6440,5072,936,12.79
+Europe,Test_5ep,7398,6448,4969,1148,15.52
+LatAm,Control_3ep,7127,6313,4973,636,8.92
+LatAm,Test_5ep,7143,6361,4933,828,11.59
+Tier-1,Control_3ep,10517,9241,7358,1796,17.08
+Tier-1,Test_5ep,10495,9278,7267,2212,21.08
